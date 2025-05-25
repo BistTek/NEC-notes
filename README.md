@@ -1,2 +1,2 @@
 All notes required for Nepal Engineering Council Examination....
-Helpful for Computer Engimeers, Electrical Engineers, IT Engineers.
+Helpful for Computer Engineers, Electrical Engineers and IT Engineers.
